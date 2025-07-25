@@ -8,6 +8,6 @@ Danny wants to use the data to answer  few questions about his customers, especi
 He plans on using these insights to help him decide whether he should expand the existing customer loyalty program - additionally he needs help to generate some basic datasets so his team can easily inspect the data without needing to use SQL.
 
 So to help Danny i have written SQL queries to generate insights from the given data.
-1) Entity Relationship Diagram.png is mapping of tables and columns in the database created in MSSQL.
+1) Entity Relationship Diagram.png is mapping of tables and columns in the database created in MySQL.
 2) Dannys_Dinner_DB.sql is the code for creating DataBase schema and to insert values.
 3)Dannys_Dinner_Solution.sql contains questions regarding sales of restaurant and SQL queries to answer them.
